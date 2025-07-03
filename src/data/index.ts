@@ -6,6 +6,7 @@ export const teams: Team[] = [
     name: 'Brazil',
     flag: 'https://images.pexels.com/photos/1026421/pexels-photo-1026421.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     group: 'A'
+    
   },
   {
     id: '2',

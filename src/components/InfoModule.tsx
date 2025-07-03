@@ -136,6 +136,7 @@ const InfoModule: React.FC = () => {
       </div>
     </div>
   );
-};
+}; 
+
 
 export default InfoModule;

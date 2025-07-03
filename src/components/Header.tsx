@@ -1,11 +1,10 @@
 import React from 'react';
 import { Trophy } from 'lucide-react';
 import { useApp } from '../context/AppContext';
-
 const Header: React.FC = () => {
   const { activeTab, setActiveTab } = useApp();
   
-  
+
   return (
     <header className="bg-gradient-to-r from-emerald-800 to-emerald-700 text-white shadow-md">
       <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between">
